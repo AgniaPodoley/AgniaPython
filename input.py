@@ -1,0 +1,5 @@
+x = int(input())
+y = int(input())
+myfile = open('python.txt','w')
+print ("Сумма чисел ",x," + ",y," равна ",x+y,file=myfile)
+myfile.close()
