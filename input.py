@@ -1,4 +1,6 @@
+print ('Введите первое число: ')
 x = int(input())
+print ('Введите второе число: ')
 y = int(input())
 myfile = open('python.txt','w')
 print ("Сумма чисел ",x," + ",y," равна ",x+y,file=myfile)
