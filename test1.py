@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
 print ('Ваше имя?')
 name = input ()
 print('Ваш возраст?')

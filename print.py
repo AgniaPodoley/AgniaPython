@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# # -*- coding: utf-8 -*-
+
 x = 'spam'
 y = 99
 z = ['eggs']
